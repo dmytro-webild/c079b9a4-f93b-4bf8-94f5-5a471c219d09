@@ -45,7 +45,7 @@ export default function LandingPage() {
             { text: "Explore Our Menu", href: "#features" },
             { text: "Order Now", href: "#contact" }
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/side-view-hand-holding-tea-pot-black-tea-white-cup-around-dry-tea-leaves-white-table_140725-130453.jpg"
+          imageSrc="http://img.b2bpic.net/premium-photo/table-with-food-cups-coffee-cup-coffee_1316263-64546.jpg?id=306279901"
           imageAlt="Traditional chai preparation with steaming spices"
           showDimOverlay={true}
           buttonAnimation="slide-up"
@@ -100,7 +100,7 @@ export default function LandingPage() {
             { src: "http://img.b2bpic.net/free-photo/woman-drinking-hot-chocolate-cafe_23-2149944044.jpg", alt: "Priya Sharma" },
             { src: "http://img.b2bpic.net/free-photo/top-view-table-full-food_23-2149209253.jpg?id=21088367", alt: "Customer testimonial" },
             { src: "http://img.b2bpic.net/free-photo/closeup-shot-sandwich-wooden-food-tray-with-healthy-fruit-shake_181624-3440.jpg?id=7926242", alt: "Customer testimonial" },
-            { src: "http://img.b2bpic.net/free-photo/smiling-man-with-thumb-up_1149-1739.jpg", alt: "Customer testimonial" }
+            { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AfjzgcAVv3SLgj6FtBCgtrhM4N/uploaded-1772992278742-5d6iw3db.jpg", alt: "Customer testimonial" }
           ]}
           ratingAnimation="slide-up"
           avatarsAnimation="slide-up"
