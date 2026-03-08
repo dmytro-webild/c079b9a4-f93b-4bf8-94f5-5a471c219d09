@@ -45,7 +45,7 @@ export default function LandingPage() {
             { text: "Explore Our Menu", href: "#features" },
             { text: "Order Now", href: "#contact" }
           ]}
-          imageSrc="http://img.b2bpic.net/premium-photo/table-with-food-cups-coffee-cup-coffee_1316263-64546.jpg?id=306279901"
+          imageSrc="http://img.b2bpic.net/free-photo/closeup-italian-food-dinner_53876-47143.jpg?id=3277797"
           imageAlt="Traditional chai preparation with steaming spices"
           showDimOverlay={true}
           buttonAnimation="slide-up"
