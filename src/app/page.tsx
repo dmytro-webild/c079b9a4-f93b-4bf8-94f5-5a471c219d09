@@ -62,7 +62,7 @@ export default function LandingPage() {
             { value: "10+", title: "Years of Tradition" },
             { value: "100%", title: "Women-Owned & Operated" }
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/full-shot-women-sitting-table_23-2149358459.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AfjzgcAVv3SLgj6FtBCgtrhM4N/uploaded-1772992955311-pwqbvfem.png"
           imageAlt="Cozy café interior with warm lighting"
           useInvertedBackground={false}
           mediaAnimation="slide-up"
