@@ -27,7 +27,7 @@ export default function LandingPage() {
     >
       <div id="nav" data-section="nav">
         <NavbarStyleApple
-          brandName="Namaste Chai"
+          brandName="Namaste chai  "
           navItems={[
             { name: "Menu", id: "features" },
             { name: "About", id: "about" },
@@ -98,8 +98,8 @@ export default function LandingPage() {
           author="Priya Sharma, Marketing Professional"
           avatars={[
             { src: "http://img.b2bpic.net/free-photo/woman-drinking-hot-chocolate-cafe_23-2149944044.jpg", alt: "Priya Sharma" },
-            { src: "http://img.b2bpic.net/free-photo/portrait-bearded-indian-male-dressed-winter-jacket-grey-background_613910-15057.jpg", alt: "Customer testimonial" },
-            { src: "http://img.b2bpic.net/free-photo/carefree-asian-girl-laughing-smiling-wearing-headphones-walking-street-outdoor-shot_1258-214220.jpg", alt: "Customer testimonial" },
+            { src: "http://img.b2bpic.net/free-photo/top-view-table-full-food_23-2149209253.jpg?id=21088367", alt: "Customer testimonial" },
+            { src: "http://img.b2bpic.net/free-photo/closeup-shot-sandwich-wooden-food-tray-with-healthy-fruit-shake_181624-3440.jpg?id=7926242", alt: "Customer testimonial" },
             { src: "http://img.b2bpic.net/free-photo/smiling-man-with-thumb-up_1149-1739.jpg", alt: "Customer testimonial" }
           ]}
           ratingAnimation="slide-up"
